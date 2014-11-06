@@ -1,0 +1,44 @@
+table {
+    border-style: none;
+    border-spacing: 0px;
+    padding: 0px;
+}
+
+tbody > tr:nth-child(odd) {
+    background-color: #daeef3;
+}
+
+tbody > tr:nth-child(even) {
+    background-color: #edf6f9;
+}
+
+.headerRow {
+    background-color: darkorange;
+    color: white;
+    border-bottom: 2px solid white;
+}
+
+.sortableHeader {
+    padding: 5px;
+    cursor: pointer;
+}
+.sortableHeader:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    font-family: "Arial";
+    color: darkorange;
+}
+
+.testResult {
+    font-family: "Arial";
+    font-weight: bold;
+}
+
+.testPassed {
+    color: green;
+}
+.testFailed {
+    color: red;
+}

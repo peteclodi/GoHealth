@@ -1,0 +1,372 @@
+{
+    "validCarrierSortAscending": [
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance One",
+            "copay": 35,
+            "premium": 135,
+            "annualLimit": 120000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance Two",
+            "copay": 25,
+            "premium": 200,
+            "annualLimit": 250000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Basic",
+            "copay": 40,
+            "premium": 100,
+            "annualLimit": 50000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Extra",
+            "copay": 30,
+            "premium": 140,
+            "annualLimit": 100000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Max",
+            "copay": 20,
+            "premium": 180,
+            "annualLimit": 200000
+        }
+    ],
+    "validCarrierSortDescending": [
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Basic",
+            "copay": 40,
+            "premium": 100,
+            "annualLimit": 50000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Extra",
+            "copay": 30,
+            "premium": 140,
+            "annualLimit": 100000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Max",
+            "copay": 20,
+            "premium": 180,
+            "annualLimit": 200000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance One",
+            "copay": 35,
+            "premium": 135,
+            "annualLimit": 120000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance Two",
+            "copay": 25,
+            "premium": 200,
+            "annualLimit": 250000
+        }
+    ],
+    "validPlanSortAscending": [
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance One",
+            "copay": 35,
+            "premium": 135,
+            "annualLimit": 120000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance Two",
+            "copay": 25,
+            "premium": 200,
+            "annualLimit": 250000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Basic",
+            "copay": 40,
+            "premium": 100,
+            "annualLimit": 50000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Extra",
+            "copay": 30,
+            "premium": 140,
+            "annualLimit": 100000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Max",
+            "copay": 20,
+            "premium": 180,
+            "annualLimit": 200000
+        }
+    ],
+    "validPlanSortDescending": [
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Max",
+            "copay": 20,
+            "premium": 180,
+            "annualLimit": 200000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Extra",
+            "copay": 30,
+            "premium": 140,
+            "annualLimit": 100000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Basic",
+            "copay": 40,
+            "premium": 100,
+            "annualLimit": 50000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance Two",
+            "copay": 25,
+            "premium": 200,
+            "annualLimit": 250000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance One",
+            "copay": 35,
+            "premium": 135,
+            "annualLimit": 120000
+        }
+    ],
+    "validCopaySortAscending": [
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Max",
+            "copay": 20,
+            "premium": 180,
+            "annualLimit": 200000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance Two",
+            "copay": 25,
+            "premium": 200,
+            "annualLimit": 250000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Extra",
+            "copay": 30,
+            "premium": 140,
+            "annualLimit": 100000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance One",
+            "copay": 35,
+            "premium": 135,
+            "annualLimit": 120000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Basic",
+            "copay": 40,
+            "premium": 100,
+            "annualLimit": 50000
+        }
+    ],
+    "validCopaySortDescending": [
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Basic",
+            "copay": 40,
+            "premium": 100,
+            "annualLimit": 50000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance One",
+            "copay": 35,
+            "premium": 135,
+            "annualLimit": 120000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Extra",
+            "copay": 30,
+            "premium": 140,
+            "annualLimit": 100000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance Two",
+            "copay": 25,
+            "premium": 200,
+            "annualLimit": 250000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Max",
+            "copay": 20,
+            "premium": 180,
+            "annualLimit": 200000
+        }
+    ],
+    "validPremiumSortAscending": [
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Basic",
+            "copay": 40,
+            "premium": 100,
+            "annualLimit": 50000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance One",
+            "copay": 35,
+            "premium": 135,
+            "annualLimit": 120000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Extra",
+            "copay": 30,
+            "premium": 140,
+            "annualLimit": 100000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Max",
+            "copay": 20,
+            "premium": 180,
+            "annualLimit": 200000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance Two",
+            "copay": 25,
+            "premium": 200,
+            "annualLimit": 250000
+        }
+    ],
+    "validPremiumSortDescending": [
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance Two",
+            "copay": 25,
+            "premium": 200,
+            "annualLimit": 250000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Max",
+            "copay": 20,
+            "premium": 180,
+            "annualLimit": 200000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Extra",
+            "copay": 30,
+            "premium": 140,
+            "annualLimit": 100000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance One",
+            "copay": 35,
+            "premium": 135,
+            "annualLimit": 120000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Basic",
+            "copay": 40,
+            "premium": 100,
+            "annualLimit": 50000
+        }
+    ],
+    "validAnnualLimitSortAscending": [
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Basic",
+            "copay": 40,
+            "premium": 100,
+            "annualLimit": 50000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Extra",
+            "copay": 30,
+            "premium": 140,
+            "annualLimit": 100000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance One",
+            "copay": 35,
+            "premium": 135,
+            "annualLimit": 120000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Max",
+            "copay": 20,
+            "premium": 180,
+            "annualLimit": 200000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance Two",
+            "copay": 25,
+            "premium": 200,
+            "annualLimit": 250000
+        }
+    ],
+    "validAnnualLimitSortDescending": [
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance Two",
+            "copay": 25,
+            "premium": 200,
+            "annualLimit": 250000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Max",
+            "copay": 20,
+            "premium": 180,
+            "annualLimit": 200000
+        },
+        {
+            "carrierName": "Assured",
+            "planName": "Assurance One",
+            "copay": 35,
+            "premium": 135,
+            "annualLimit": 120000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Extra",
+            "copay": 30,
+            "premium": 140,
+            "annualLimit": 100000
+        },
+        {
+            "carrierName": "ProHealth",
+            "planName": "Be Well Basic",
+            "copay": 40,
+            "premium": 100,
+            "annualLimit": 50000
+        }
+    ]
+}
